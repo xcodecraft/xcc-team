@@ -1,0 +1,9 @@
+_dev:
+    - !C.project
+        name : "xcc-team"
+        root : "${HOME}/devspace/xcc-team"
+    - !C.version
+        file : "src/version.txt"
+    - !C.git
+        remote : "git@github.com:xcodecraft/xcc-team.git"
+
