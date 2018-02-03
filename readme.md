@@ -2,7 +2,7 @@
 
 ## 环境使用
 ```
-/data/x/tools/team/setup.sh   或
+/data/x/tools/xcc-team/setup.sh   或
 ```
 
 ## 常用命令
